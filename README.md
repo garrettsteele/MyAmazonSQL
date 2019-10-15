@@ -15,7 +15,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 <ol>
 <li>
 <p>Clone project:</p>
-<pre><code> "git clone https://github.com/hollandjb92/MyAmazonSQL.git"
+<pre><code> "git clone "
 </code></pre>
 </li>
 <li>
