@@ -27,33 +27,4 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 ### Please initialize your database by importing the schema.sql file into your preferred database tool
 
-## Customer View
-![CustomerSide](Customer.gif)
-
-<ul>
-  <li>Customer is able to see items display and purchase as they choose </li>
-</ul>
-
-## Manager View
-![ManagerSide](Manager.gif)
-<ul>
-  <li>Manager is able to: </li>
-  <ul>
-     <li>See Current Inventory</li>
-     <li>See Low Inventory Items</li>
-     <li>Add New Products</li>
-   <li>Order New Stock</li>
-  </ul>
-</ul>
-
-
-
-## Built With
-<ul>
-<li><a href="https://nodejs.org/en/">Node.js</a></li>
-<li><a href="https://www.mysql.com/">SQL</a></li>
-  <li><a href="https://www.npmjs.com/package/inquirer">Inquirer</a></li>
-  <li><a href="https://www.npmjs.com/package/colors">Colors</a></li>
-  <li><a href="https://www.npmjs.com/package/mysql">MySQL</a></li>
-
 </ul>
